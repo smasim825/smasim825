@@ -10,6 +10,24 @@
 
 ---
 
+### 🏆 GitHub Achievements Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smasim825&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/yolo-default-235122f845a9.png" width="90px" alt="YOLO Badge" title="YOLO - Merged PR without code review" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90px" alt="Pull Shark Badge" title="Pull Shark - Opened merged pull requests" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quick-draw-default-39c6e4fd8977.png" width="90px" alt="Quickdraw Badge" title="Quickdraw - Closed issue within 5 minutes" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e77638d011ed.png" width="90px" alt="Pair Extraordinaire Badge" title="Pair Extraordinaire - Co-authored commits" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 Graduate Student in **Computer Science & Engineering** at **Chittagong University of Engineering and Technology (CUET)**. Passionate about engineering high-performance **Full-Stack Web Applications**, **Mobile Solutions**, and **AI/ML Systems**. Strong background in algorithms with **1,000+ solved problems** across competitive programming platforms.
@@ -108,4 +126,3 @@ Graduate Student in **Computer Science & Engineering** at **Chittagong Universit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=100&section=footer" width="100%"/>
 </p>
-<!-- Pull Shark Test 1 -->
