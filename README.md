@@ -85,7 +85,7 @@ Graduate Student in **Computer Science & Engineering** at **Chittagong Universit
 | Project | Tech Stack | Highlights |
 |---|---|---|
 | 🏠 **[Rent-Nest](https://github.com/smasim825/mood-music-recommender)** | React, Spring Boot, PostgreSQL, Gemini API | Full-stack rental platform with location search & AI recommendations |
-| 🚨 **Sentinel** | Flutter, Firebase, Voice Activation | Emergency response application with real-time SOS notification |
+| 🚨 **[Sentinel](https://github.com/smasim825/sentinel-ai-1.0)** | Flutter, Firebase, Voice Activation | Emergency response application with real-time SOS notification |
 | 🏎️ **[Virtual Racing Controller](https://github.com/smasim825/know-your-rights-alpha)** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture controller for racing games |
 | 💳 **[Production REST API](https://github.com/smasim825/expenses-sliptter)** | Node.js, Express, MongoDB, JWT | Production-grade REST backend with RBAC security & Jest testing |
 
