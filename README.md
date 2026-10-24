@@ -9,11 +9,8 @@
   <a href="https://github.com/smasim825">
     <img src="https://komarev.com/ghpvc/?username=smasim825&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
-  <a href="https://codeforces.com/profile/smasim825" target="_blank">
+  <a href="https://codeforces.com/profile/smasim" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Specialist_(1400)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist"/>
-  </a>
-  <a href="https://leetcode.com/u/smasim825/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Problems"/>
   </a>
 </p>
 
@@ -73,14 +70,11 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 ---
 
-### 🏆 Competitive Programming & Problem Solving
+### 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/smasim825" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smasim825&theme=tokyonight" alt="Codeforces Card" />
-  </a>
-  <a href="https://leetcode.com/u/smasim825/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/smasim825?theme=tokyo-night&font=Fira%20Code" alt="LeetCode Card" width="48%" />
+  <a href="https://codeforces.com/profile/smasim" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smasim&theme=tokyonight" alt="Codeforces Card" />
   </a>
 </p>
 
@@ -108,11 +102,10 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 | Project | Tech Stack | Highlights | Links |
 |---|---|---|---|
-| 🧭 **DhakaPath** | Python, FastAPI, Graph Algorithms, React | Smart-city transit routing engine with grounded graph traversal & query interface | [Repository](https://github.com/smasim825) |
-| 🎮 **CodeRush** | TypeScript, Canvas API, WebSockets, Node.js | Real-time competitive racing game powered by programming performance | [Repository](https://github.com/smasim825) |
-| 📸 **ChobiDeh** | React, Node.js, Express, MongoDB, Cloudinary | Collaborative group travel memories platform with photo sharing & expense splitting | [Repository](https://github.com/smasim825) |
-| 🚨 **Sentinel** | Flutter, Firebase, Voice Activation | Real-time emergency response system with automated SOS alerts | [Repository](https://github.com/smasim825/sentinel-ai-1.0) |
-| 🏎️ **Virtual Controller** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture controller for gaming simulation | [Repository](https://github.com/smasim825) |
+| 🧭 **[DhakaPath](https://github.com/smasim825/IAIT_hackathon)** | Python, FastAPI, Graph Algorithms, React | Smart-city transit routing engine with grounded graph traversal & query interface | [Repository](https://github.com/smasim825/IAIT_hackathon) |
+| 📸 **[ChobiDeh](https://github.com/smasim825/ChobiDeh_vol1)** | React, Node.js, Express, MongoDB, Cloudinary | Collaborative group travel memories platform with photo sharing & expense splitting | [Repository](https://github.com/smasim825/ChobiDeh_vol1) |
+| 🚨 **[Sentinel](https://github.com/smasim825/sentinel-ai-1.0)** | Flutter, Firebase, Voice Activation | Real-time emergency response system with automated SOS alerts | [Repository](https://github.com/smasim825/sentinel-ai-1.0) |
+| 🏎️ **[Virtual Controller](https://github.com/smasim825/VirtualWeelo)** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture controller for gaming simulation | [Repository](https://github.com/smasim825/VirtualWeelo) |
 
 ---
 
@@ -128,11 +121,8 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
   <a href="https://github.com/smasim825" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://codeforces.com/profile/smasim825" target="_blank">
+  <a href="https://codeforces.com/profile/smasim" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/smasim825/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
