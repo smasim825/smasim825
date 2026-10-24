@@ -3,6 +3,9 @@
 </h1>
 
 <p align="center">
+  <a href="./Sayed_Mohammed_Asim_cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Resume-38BDF8?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
   <a href="https://github.com/smasim825">
     <img src="https://komarev.com/ghpvc/?username=smasim825&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
@@ -24,6 +27,7 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 - 🔭 **Currently Building:** AI-powered full-stack platforms, scalable backend services & smart transit routing engines
 - 🏆 **Competitive Programming:** **Codeforces Specialist** (Max Rating: **1400**) | 550+ CF Problems Solved | IUPC Contestant
 - 💼 **Experience:** AI/ML Intern @ FlyRank | Full Stack Intern @ CodeBasics
+- 📄 **Resume:** [Sayed_Mohammed_Asim_cv.pdf](./Sayed_Mohammed_Asim_cv.pdf)
 - 📬 **Reach Me:** [smasim825@gmail.com](mailto:smasim825@gmail.com) | [github.com/smasim825](https://github.com/smasim825) | [LinkedIn](https://www.linkedin.com/in/smasim825)
 
 ---
@@ -67,13 +71,16 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🏆 Competitive Programming Profiles *(Click to view profiles)*
-<p align="left">
+---
+
+### 🏆 Competitive Programming & Problem Solving
+
+<p align="center">
   <a href="https://codeforces.com/profile/smasim825" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist_(1400)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smasim825&theme=tokyonight" alt="Codeforces Card" />
   </a>
   <a href="https://leetcode.com/u/smasim825/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/smasim825?theme=tokyo-night&font=Fira%20Code" alt="LeetCode Card" width="48%" />
   </a>
 </p>
 
@@ -88,6 +95,11 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smasim825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+#### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smasim825&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
