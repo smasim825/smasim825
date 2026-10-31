@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="./Sayed_Mohammed_Asim_cv.pdf" target="_blank">
+  <a href="https://github.com/smasim825/smasim825/blob/main/Sayed_Mohammed_Asim_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_Resume-38BDF8?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://github.com/smasim825">
@@ -24,8 +24,8 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 - 🔭 **Currently Building:** AI-powered full-stack platforms, scalable backend services & smart transit routing engines
 - 🏆 **Competitive Programming:** **Codeforces Specialist** (Max Rating: **1400**) | 550+ CF Problems Solved | IUPC Contestant
 - 💼 **Experience:** AI/ML Intern @ FlyRank | Full Stack Intern @ CodeBasics
-- 📄 **Resume:** [Sayed_Mohammed_Asim_cv.pdf](./Sayed_Mohammed_Asim_cv.pdf)
-- 📬 **Reach Me:** [smasim825@gmail.com](mailto:smasim825@gmail.com) | [github.com/smasim825](https://github.com/smasim825) | [LinkedIn](https://www.linkedin.com/in/smasim825)
+- 📄 **Resume:** [Sayed_Mohammed_Asim_cv.pdf](https://github.com/smasim825/smasim825/blob/main/Sayed_Mohammed_Asim_cv.pdf)
+- 📬 **Reach Me:** [smasim825@gmail.com](mailto:smasim825@gmail.com) | [LinkedIn](https://www.linkedin.com/in/smasim-3037a636b/) | [Codeforces](https://codeforces.com/profile/smasim) | [LeetCode](https://leetcode.com/u/sm_asim/)
 
 ---
 
@@ -83,17 +83,17 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smasim825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=smasim825&show_icons=true&theme=tokyonight&hide_border=true" alt="Asim's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=smasim825&theme=tokyonight&hide_border=true" alt="Asim's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smasim825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smasim825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 #### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smasim825&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=smasim825&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
@@ -112,10 +112,10 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:smasim825@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smasim825@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/smasim825" target="_blank">
+  <a href="https://www.linkedin.com/in/smasim-3037a636b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/smasim825" target="_blank">
@@ -123,6 +123,12 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
   </a>
   <a href="https://codeforces.com/profile/smasim" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/sm_asim/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.facebook.com/sm.asim25" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
