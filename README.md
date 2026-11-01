@@ -83,8 +83,8 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=smasim825&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Asim's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=smasim825&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka&locale=en" alt="Asim's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=smasim825&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Asim's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=smasim825&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka&locale=en&mode=daily" alt="Asim's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
