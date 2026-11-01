@@ -84,16 +84,16 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=smasim825&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Asim's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=smasim825&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka" alt="Asim's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=smasim825&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka&locale=en" alt="Asim's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smasim825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smasim825&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 #### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=smasim825&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=smasim825&theme=tokyo-night&area=true&hide_border=true&custom_title=Sayed%20Mohammed%20Asim%27s%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
