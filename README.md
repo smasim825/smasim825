@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Sayed+Mohammed+Asim;CSE+Student+%40+CUET+%F0%9F%8D%93;Full-Stack+%26+Backend+Dev+%F0%9F%92%BB;Codeforces+Specialist+%F0%9F%8F%85+(1400+Rating)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sayed+Mohammed+Asim;CSE+Student+%40+CUET+%F0%9F%8D%93;Full-Stack+%26+Mobile+Dev+%F0%9F%93%B1%F0%9F%92%BB;Codeforces+Specialist+%F0%9F%8F%85+(Max+1413);Problem+Solver+%26+Open-Source+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=smasim825&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://codeforces.com/profile/smasim" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist_(1400)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist"/>
+    <img src="https://img.shields.io/badge/Codeforces-Specialist_(1413)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist"/>
   </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-Undergraduate Student in **Computer Science & Engineering** at **Chittagong University of Engineering and Technology (CUET)** (*Class of 2028*). Passionate about engineering high-performance **Full-Stack Web Applications**, **Backend Systems**, **DevOps Pipelines**, and **AI/Computer Vision Solutions**. Strong background in algorithms and data structures with **1,000+ solved problems** across competitive programming platforms.
+Undergraduate Student in **Computer Science & Engineering** at **Chittagong University of Engineering and Technology (CUET)** (*Class of 2028*). Passionate about engineering high-performance **Full-Stack Web Applications**, **Cross-Platform Mobile Apps**, **Distributed Backend Services**, and **AI / Computer Vision Systems**. Strong background in algorithms and data structures with **1,000+ solved problems** across competitive programming platforms.
 
 - 🎓 **Education:** B.Sc. in CSE at CUET (*2023 – Present*)
-- 🔭 **Currently Building:** AI-powered full-stack platforms, scalable backend services & smart transit routing engines
-- 🏆 **Competitive Programming:** **Codeforces Specialist** (Max Rating: **1400**) | 550+ CF Problems Solved | IUPC Contestant
+- 🔭 **Currently Building:** Offline-first mobile utilities, graph-based transit routing engines & smart campus optimization backends
+- 🏆 **Competitive Programming:** **Codeforces Specialist** (Max Rating: **1413**) | 550+ CF Problems Solved | IUPC Contestant
 - 💼 **Experience:** AI/ML Intern @ FlyRank | Full Stack Intern @ CodeBasics
 - 📄 **Resume:** [Sayed_Mohammed_Asim_cv.pdf](https://github.com/smasim825/smasim825/blob/main/Sayed_Mohammed_Asim_cv.pdf)
 - 📬 **Reach Me:** [smasim825@gmail.com](mailto:smasim825@gmail.com) | [LinkedIn](https://www.linkedin.com/in/smasim-3037a636b/) | [Codeforces](https://codeforces.com/profile/smasim) | [LeetCode](https://leetcode.com/u/sm_asim/)
@@ -40,9 +40,9 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### 🌐 Frontend & Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,6 +50,7 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -102,10 +103,12 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 | Project | Tech Stack | Highlights | Links |
 |---|---|---|---|
-| 🧭 **[DhakaPath](https://github.com/smasim825/IAIT_hackathon)** | Python, FastAPI, Graph Algorithms, React | Smart-city transit routing engine with grounded graph traversal & query interface | [Repository](https://github.com/smasim825/IAIT_hackathon) |
-| 📸 **[ChobiDeh](https://github.com/smasim825/ChobiDeh_vol1)** | React, Node.js, Express, MongoDB, Cloudinary | Collaborative group travel memories platform with photo sharing & expense splitting | [Repository](https://github.com/smasim825/ChobiDeh_vol1) |
-| 🚨 **[Sentinel](https://github.com/smasim825/sentinel-ai-1.0)** | Flutter, Firebase, Voice Activation | Real-time emergency response system with automated SOS alerts | [Repository](https://github.com/smasim825/sentinel-ai-1.0) |
-| 🏎️ **[Virtual Controller](https://github.com/smasim825/VirtualWeelo)** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture controller for gaming simulation | [Repository](https://github.com/smasim825/VirtualWeelo) |
+| 📍 **[WakeMeUp](https://github.com/smasim825/WakeMeUp)** | Flutter, Dart, Geolocator, Haversine | GPS destination alarm for travellers with 100% offline Haversine distance tracking, two-stage customizable proximity alerts & test simulator | [Repository](https://github.com/smasim825/WakeMeUp) |
+| 🧭 **[DhakaPath](https://github.com/smasim825/IAIT_hackathon)** | Python, FastAPI, Graph Algorithms, React | Smart-city multi-modal transit routing engine with grounded graph traversal & interactive UI | [Repository](https://github.com/smasim825/IAIT_hackathon) |
+| ⚡ **[GridWise API](https://github.com/smasim825/GridPowerOptimization_API)** | Java, Spring Boot, REST APIs | Smart campus energy and power grid optimization API developed for BUP CSE FEST 2026 | [Repository](https://github.com/smasim825/GridPowerOptimization_API) |
+| 🏎️ **[Virtual Controller](https://github.com/smasim825/VirtualWeelo)** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture steering & control interface for gaming simulation | [Repository](https://github.com/smasim825/VirtualWeelo) |
+| 🚨 **[Sentinel](https://github.com/smasim825/sentinel-ai-1.0)** | Flutter, Firebase, Voice Activation | Real-time emergency response platform with automated SOS triggers & alert coordination | [Repository](https://github.com/smasim825/sentinel-ai-1.0) |
+| 🌕 **[MoonFall](https://github.com/smasim825/MoonFall)** | HTML5, CSS3, JavaScript, Canvas | Interactive lunar surface mission simulator engineered by Team Chandrapath | [Repository](https://github.com/smasim825/MoonFall) |
 
 ---
 
