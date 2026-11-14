@@ -103,7 +103,6 @@ Undergraduate Student in **Computer Science & Engineering** at **Chittagong Univ
 
 | Project | Tech Stack | Highlights | Links |
 |---|---|---|---|
-| 📍 **[WakeMeUp](https://github.com/smasim825/WakeMeUp)** | Flutter, Dart, Geolocator, Haversine | GPS destination alarm for travellers with 100% offline Haversine distance tracking, two-stage customizable proximity alerts & test simulator | [Repository](https://github.com/smasim825/WakeMeUp) |
 | 🧭 **[DhakaPath](https://github.com/smasim825/IAIT_hackathon)** | Python, FastAPI, Graph Algorithms, React | Smart-city multi-modal transit routing engine with grounded graph traversal & interactive UI | [Repository](https://github.com/smasim825/IAIT_hackathon) |
 | ⚡ **[GridWise API](https://github.com/smasim825/GridPowerOptimization_API)** | Java, Spring Boot, REST APIs | Smart campus energy and power grid optimization API developed for BUP CSE FEST 2026 | [Repository](https://github.com/smasim825/GridPowerOptimization_API) |
 | 🏎️ **[Virtual Controller](https://github.com/smasim825/VirtualWeelo)** | Python, OpenCV, MediaPipe, PyAutoGUI | Hands-free computer vision gesture steering & control interface for gaming simulation | [Repository](https://github.com/smasim825/VirtualWeelo) |
