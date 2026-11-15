@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me -,-
 
 Undergraduate Student in **Computer Science & Engineering** at **Chittagong University of Engineering and Technology (CUET)** (*Class of 2028*). Passionate about engineering high-performance **Full-Stack Web Applications**, **Cross-Platform Mobile Apps**, **Distributed Backend Services**, and **AI / Computer Vision Systems**. Strong background in algorithms and data structures with **1,000+ solved problems** across competitive programming platforms.
 
